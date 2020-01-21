@@ -8,7 +8,7 @@
 /.cache
 
 .git
-,next
+.next
 
 # testing
 /coverage
